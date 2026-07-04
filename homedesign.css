@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(167, 248, 167);
+    align-items: center;
+}
+
+h1, h2 {
+    color: rgb(8, 107, 8);
+    align-items: center;
+}
+
+button {
+    color: red;
+    align-items: center;
+}
