@@ -52,6 +52,7 @@ Will be submitting screenrecording of game play in a powerpoint/slides presentat
 
 Start date and time: 4 Jul - 1126 EST
 Submission update One: 4 Jul - 1146 SET
+Submission update Two: 4 Jul -1230 EST (computer dying and need to charge)
 
 # GameConcept
 Find a way off the with your booty
