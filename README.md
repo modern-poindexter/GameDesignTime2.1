@@ -51,3 +51,16 @@ To successfully meet the requirements, you should have the following:
 Will be submitting screenrecording of game play in a powerpoint/slides presentation and showing source code in a doc sumbmission.
 
 Start date and time: 4 Jul - 1126 EST
+Submission update One: 4 Jul - 1146 SET
+
+# GameConcept
+Find a way off the with your booty
+
+# CoreIdea
+You/Player is a pirate that came across an island and are trying to find the treasure and ecsape with it with you life and health
+
+# Rules
+Avoid death and obstacles/setbacks
+
+# LateralThinkingElement
+Choose between given options to personalize journey and achieve end goal
